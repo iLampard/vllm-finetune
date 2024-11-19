@@ -1,0 +1,8 @@
+config_cls_name: llm_config
+
+model:
+  model_name: minicpm
+  use_api: false
+  model_dir: /workspaces/models--openbmb-minicpm-v-2_6
+
+
